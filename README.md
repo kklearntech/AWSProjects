@@ -2,7 +2,7 @@ Hi, Hello, Nice to meet you. I am Kiruthika Kumarasamy an eithustist who is very
 This is my first project reposotory ub git as it allows me to demostrate my technical skills in cloud computing. 
 In addition to my technical skills, I am well-versed in using tools such as jira and git to manager and track projoctes. I have experince in creating business process documents as this helps all the team members have a clear understanding of whats need to be done, how it needs to be done and when it needs to be done.
 In my current role I am working as Sharepoint administrator creating web application and site collections. In my current role I'am providing level 2 support and also act as business anlayst for gathering requiremenyts from business and transferring the requirements into relality in Sharepoint. I am also prificent in desgining and deplying Infopath form, transitioning to Power Apps. I have working knowldege of Power Apps intergtaion with Power Automate , which seamlessly intergate data flow and automatating task and process increasing the productivity and efficeny. 
-Certification :
+##Certification :
 *AWS Certified Cloud Practitioner, Sep 06,2023
 *Electronic Records Management Specialist, Sep 2017 
 *Enterprise Content Management Specialist, Nov 2016 
